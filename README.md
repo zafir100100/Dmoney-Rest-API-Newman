@@ -14,3 +14,5 @@
   - Link (https://github.com/zafir100100/create-postman-newman-report-with-test-cases-and-docs/blob/main/assets/test-cases/zafir/24-01-2023/test-cases/test-cases.xlsx)
 
 ![181](https://github.com/zafir100100/dmoney-b6/blob/main/assets/newmap-report/zafir/24-01-2023/newman-report.png)
+
+
